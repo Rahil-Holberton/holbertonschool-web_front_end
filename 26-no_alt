@@ -1,1 +1,1 @@
-console.table($$('img').filter(i => !i.alt).map(i => i.className));
+img-fluid missing-alt
